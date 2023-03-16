@@ -1,7 +1,10 @@
 #include<stdio.h>
-/* the put function prints out arguments*/
+/**
+ * main - for starting the program execution.
+ * puts - for printing arguments
+ * */
 int main(void)
 {
-  puts("\"Programming is like building a multilingual puzzle");
-  return (0);
+    puts("\"Programming is like building a multilingual puzzle");
+    return (0);
 }
