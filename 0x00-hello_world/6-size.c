@@ -1,4 +1,4 @@
-#include<stdio>
+#include<stdio.h>
 /**
  * main- program execution starts here
  * sizeof(): returns sizes of various types
