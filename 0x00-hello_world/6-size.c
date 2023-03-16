@@ -1,7 +1,6 @@
 #include<stdio.h>
 /**
- * main- program execution starts here
- * sizeof(): returns sizes of various types
+ * main- program entry
  * Return: returns 0
  */
 int main(void)
@@ -13,3 +12,4 @@ printf("size of double:%i byte(s)\n", sizeof(long long int));
 printf("size of long long int: %i byte(s)\n", sizeof(float);
 return (0);
 }
+
