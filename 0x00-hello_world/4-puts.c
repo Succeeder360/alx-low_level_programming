@@ -1,9 +1,5 @@
 #include<stdio.h>
-/**
- * the program starts running from main.
- * the put function prints our values.
- * the function returns 0.
- *\
+/* the put function prints out arguments*/
 int main(void)
 {
   puts("\"Programming is like building a multilingual puzzle");
