@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main- entery point
- * Return: returns 1
+ * Return: returns 0
  */
 int main(void)
 {
@@ -13,4 +13,5 @@ if (al != 'q' && al != 'e')
 putchar(al);
 }
 putchar('\n');
-return (1);
+return (0);
+}
